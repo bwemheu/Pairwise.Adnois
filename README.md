@@ -1,4 +1,4 @@
-# Pairwise.Adonis (under construction)
+# pairwise.adonis (under construction)
 R package to calculate pairwise comparisions using the adonis function in vegan (under development)
 
 
